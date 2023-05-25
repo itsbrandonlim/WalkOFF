@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B79F846A2A1C81E500E3A8DF /* RequestNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79F84692A1C81E500E3A8DF /* RequestNotification.swift */; };
 		B7B610ED2A1A242F00304056 /* Walk-OFF Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = B7B610EC2A1A242F00304056 /* Walk-OFF Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		B7B610F22A1A242F00304056 /* Walk_OFFApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B610F12A1A242F00304056 /* Walk_OFFApp.swift */; };
 		B7B610F42A1A242F00304056 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B610F32A1A242F00304056 /* ContentView.swift */; };
@@ -50,7 +49,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B79F84692A1C81E500E3A8DF /* RequestNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestNotification.swift; sourceTree = "<group>"; };
 		B7B610E62A1A242F00304056 /* Walk-OFF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Walk-OFF.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7B610EC2A1A242F00304056 /* Walk-OFF Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Walk-OFF Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7B610F12A1A242F00304056 /* Walk_OFFApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Walk_OFFApp.swift; sourceTree = "<group>"; };
@@ -106,7 +104,6 @@
 				B7B611102A1B2B7C00304056 /* Walk-OFF-Watch-App-Info.plist */,
 				B7B6110F2A1B10C600304056 /* Walk-OFF Watch App.entitlements */,
 				B7B610F12A1A242F00304056 /* Walk_OFFApp.swift */,
-				B79F84692A1C81E500E3A8DF /* RequestNotification.swift */,
 				B7FCF1B62A1EF2A20059476C /* Model */,
 				B7FCF1B82A1EF2C40059476C /* View */,
 				B7FCF1B72A1EF2B90059476C /* ViewModel */,
@@ -280,7 +277,6 @@
 				B7B610F42A1A242F00304056 /* ContentView.swift in Sources */,
 				B7FCF1BD2A1F101E0059476C /* HealthViewModel.swift in Sources */,
 				B7B611182A1BA23600304056 /* LottieViewModel.swift in Sources */,
-				B79F846A2A1C81E500E3A8DF /* RequestNotification.swift in Sources */,
 				B7B610F22A1A242F00304056 /* Walk_OFFApp.swift in Sources */,
 				B7FCF1BA2A1F0DAC0059476C /* notificationViewModel.swift in Sources */,
 				B7B611062A1A262C00304056 /* WalkOffPage.swift in Sources */,

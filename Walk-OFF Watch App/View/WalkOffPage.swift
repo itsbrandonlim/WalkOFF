@@ -122,7 +122,7 @@ struct WalkOffPage: View {
         content.body = "You've manage to stay active, now go back to work!"
         content.sound = UNNotificationSound.default
 
-        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 61, repeats: false)
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 60, repeats: false)
 
         let request = UNNotificationRequest(
             identifier: "GreatJobNotification",
